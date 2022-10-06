@@ -19,13 +19,15 @@ Clone the repo and follow the steps below:
         - your_reddit_username
 ```
 ```    
-    3. Install PRAW using the command below:
-        - pip3 install praw
+    3. Install PRAW using the command below (1st is linux and 2nd is windows):
+        - pip3 install praw 
+        - pip install praw 
     
 ```
 ```
-    4. Run the script with the command below:
+    4. Run the script with one of the command below:
         - python3 main.py
+        -python main.py
 ```
 
 ## Screenshots
